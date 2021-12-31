@@ -1,1 +1,5 @@
 # Web scraping con javascript
+
+## Material complementario
+
+* [Busquedas](https://www.google.com/search?q=web+scrapping+con+javascript&sxsrf=AOaemvKZcCDul3BwaiIM7RALI4oLAW9PgA%3A1640931102463&ei=Hp_OYfTKG4SmqtsPrr6jsAE&ved=0ahUKEwj00dnbsI31AhUEk2oFHS7fCBYQ4dUDCA8&uact=5&oq=web+scrapping+con+javascript&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEA0yCAgAEA0QBRAeOgcIABBHELADOgQIABBDOggIABAHEAoQHjoGCAAQBxAeOgQIABAKOgYIABAKEB46CAgAEAUQChAeOggIABAIEAoQHjoKCAAQCBAHEAoQHkoECEEYAEoECEYYAFDzAVjUCWDgD2gBcAF4AIABrAGIAfkDkgEDMC40mAEAoAEByAEIwAEB&sclient=gws-wiz)
