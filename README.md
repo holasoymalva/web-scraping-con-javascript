@@ -2,6 +2,11 @@
 
 > En esta ocasión aprenderemos a realizar un web scraping analizando algunos precios y productos dentro de un sitio de comercio electrónico
 
+**Web-scraper-maerca.js**:
+
+> Web Scraper sencillo para conseguir información sobre precios y productos dentro de una categoría a buscar o buscar información sobre un producto en específico dentro del sitio a analizar.
+
+
 ### Intalaciones
 
 * [Visual Studio Code]()
