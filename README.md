@@ -1,5 +1,7 @@
 # Web scraping con javascript
 
+> En esta ocacion aprenderemos a realizar un web scraping analisando algunos presios y productos dentro de un sitio de e-commerce
+
 ### Intalaciones
 
 * [Visual Studio Code]()
