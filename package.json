@@ -1,0 +1,26 @@
+{
+  "name": "web-scraping-con-javascript",
+  "version": "1.0.0",
+  "description": "Web scraping course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malvabombom/web-scrapping-con-javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Malvabombom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malvabombom/web-scrapping-con-javascript/issues"
+  },
+  "homepage": "https://github.com/malvabombom/web-scrapping-con-javascript#readme",
+  "dependencies": {
+    "jsdom": "^19.0.0",
+    "puppeteer": "^13.0.1"
+  }
+}
