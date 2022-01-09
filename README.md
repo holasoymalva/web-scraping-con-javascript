@@ -1,6 +1,6 @@
 # Web scraping con javascript
 
-> En esta ocacion aprenderemos a realizar un web scraping analisando algunos presios y productos dentro de un sitio de e-commerce
+> En esta ocasión aprenderemos a realizar un web scraping analizando algunos precios y productos dentro de un sitio de comercio electrónico
 
 ### Intalaciones
 
