@@ -2,7 +2,11 @@
 
 > En esta ocasión aprenderemos a realizar un web scraping analizando algunos precios y productos dentro de un sitio de comercio electrónico
 
-**Web-scraper-maerca.js**:
+**demo-scraper.js**:
+
+> Ejemplo básico para mostrar el funcionamiento básico de un web scraper para la recolección de información.
+
+**Web-scraper-merca.js**:
 
 > Web Scraper sencillo para conseguir información sobre precios y productos dentro de una categoría a buscar o buscar información sobre un producto en específico dentro del sitio a analizar.
 
